@@ -1,7 +1,8 @@
 -> Install Nodejs from https://nodejs.org/en
 -> Once the setup is complete, Go to vscode which is an editor that I used and create a new React project by running the following command in new terminal:
     -> npx create-react-app card-listing
-    -> cd card-listing, the folder opens which is a new directory called “card-listing” with a basic React setup.
+    -> cd card-listing
+   the folder opens which is a new directory called “card-listing” with a basic React setup.
 -> In the "src" we need to edit the code.
 -> Since I have not used any components here, the entire logic lies in "App.js" file.
 -> The styling for it is in "App.css" file.
